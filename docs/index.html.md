@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crime Economy Italy Analysis</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            background: #f6f8fa;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #24292f;
+            text-align: center;
+        }
+        .powerbi-wrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+        }
+        .powerbi-wrapper iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Crime Economy Italy Analysis</h1>
+        <div class="powerbi-wrapper">
+            <iframe title="crime_economy_italy_analysis" 
+                    src="https://app.powerbi.com/view?r=eyJrIjoiNGE3YmRmOTYtNzEwMC00YjFiLWEyNmQtZTI1OGUyM2RjMGRiIiwidCI6IjFmNTRhMThlLTg0MjUtNDdiYi1hMDk3LTczODg2ZTM1MTE4YSIsImMiOjh9&pageName=371c88b3c4db8907703d" 
+                    allowfullscreen="true">
+            </iframe>
+        </div>
+    </div>
+</body>
+</html>
