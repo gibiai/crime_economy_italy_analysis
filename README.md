@@ -146,7 +146,7 @@ Per un'analisi più robusta, sarebbe necessario un modello di regressione multip
 
 La dashboard interattiva consente di esplorare questi risultati in modo dinamico:
 
-**Interactive Dashboard:** [![Power BI Report]🌐 [![Dashboard Interattiva](https://img.shields.io/badge/Dashboard-Interattiva-green?style=for-the-badge)](https://gibiai.github.com/crime_economy_italy_analysis/docs/index.html)
+**Interactive Dashboard:** [![Power BI](https://img.shields.io/badge/Power%20BI-Visualizzazione%20Dashboard-yellow?logo=powerbi)](https://gibiai.github.io/crime_economy_italy_analysis/)
 
 ---
 ## 🙏 Acknowledgments
